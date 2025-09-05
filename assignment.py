@@ -1,2 +1,2 @@
-print("My name is John")
-print("I like Python")
+print("My name is Jphn")
+print(" I like Python")
